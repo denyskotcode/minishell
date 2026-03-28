@@ -293,4 +293,4 @@ All dynamically allocated memory is tracked and freed:
 
 ## License
 
-This project is part of the 42 School curriculum. No license — educational use only.
+MIT © [denyskotcode](https://github.com/denyskotcode) — see [LICENSE](LICENSE) for details.
